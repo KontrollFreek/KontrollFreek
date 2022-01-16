@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**KontrollFreek/KontrollFreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm KontrollFreek, an amateur dev who likes JS and Python (As well as web development in general), fluffy folf, and pansexual boy liker 🥰.
 
-Here are some ideas to get you started:
+Check out my website at www.kontroll.dev. (It even has a cool domain!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Page
+
+My github page is mainly for uploading and hosting websites, but I do have a few projects in the works that may be released here soon :3c
+
+If you want the source code for my websites, just look for `KontrollFreek/KontrollFreek.github.io`!
+
+## Contacts
+
+You can contact me on my Discord `KontrollFreek#0643`, or on my social media! (Mainly Twitter)
