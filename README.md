@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm KontrollFreek, an amateur dev who likes JS and Python (As well as web development in general), fluffy green folf boy, and pansexual boy liker 🥰.
+I'm KontrollFreek, an amateur dev who likes JS and Python (As well as web development in general), fluffy green folf boy, and pansexual boy (and girl!) liker 🥰.
 
 Check out my website at www.kontroll.dev. (It even has a cool domain!)
 
