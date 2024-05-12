@@ -6,6 +6,6 @@ If you have question, want me to work with/for you, or just want to chat, shoot 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=kontrollfreek&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kontrollfreek&show_icons=true&theme=catppuccin_mocha&hide_border=true&layout=compact" />
 </a>
